@@ -1,1 +1,1 @@
-print("mwenda pole hajikwai)
+print("mwenda pole hajikwai")
